@@ -1,26 +1,31 @@
-vitorfgd.github.io
-===================
+**[View demo](http://romannurik.github.io/portfolio/)**
 
-My personal website using github.
+I built my design portfolio with HTML/Swig/YAML, JavaScript/jQuery, Sass, and Gulp. If you're a designer
+and that's up your alley, you can use this as a starting point for your own portfolio.
 
+### Instructions
 
-How to use?
--------------
+1. Install [Node JS](https://nodejs.org/).
 
-* ![Visit](vitorfgd.github.com)
+2. Install Gulp and the other Node packages. This may take a while:
 
+    ```
+    npm install
+    ```
 
-Contributing
--------------
+3. Run the app:
 
-1. Fork the repository on Github;
-2. Clone the project into your machine;
-3. Commit your changes to your own branch;
-4. Push your work to your fork;
-5. Submit a pull request for review;
+    ```
+    gulp serve
+    ```
 
+4. Edit the [data](https://github.com/romannurik/portfolio/tree/master/app/data) and
+   [media](https://github.com/romannurik/portfolio/tree/master/app/media) files. Your
+   changes should show up on in the browser immediately while `gulp serve` is still
+   running.
 
-Copyright
--------------
+5. When you're done, generate the minified HTML/JavaScript/CSS/media files:
 
-This project is under Apache 2.0 license.
+    ```
+    gulp
+    ```

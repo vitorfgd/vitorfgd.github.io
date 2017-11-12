@@ -1,0 +1,170 @@
+# List of my portfolio projects.
+
+- name: Radar Warfare
+  date: April 2016 – November 2017
+  extra_classes: tall
+  description: |
+    After developing some mobile games I decided it was time to take a step further on game development, I planned, developed (both code and arts) and launched Radar Warfare over the course of a year and a half.
+
+    Radar Warfare is a bullet hell / fast-paced shoot 'em up with radar theme and retro style. In the game, you will face an alien invasion. As a commander, it's your duty to fight back and save the world.
+
+    Available on Steam.
+
+    C# - Unity3D - Photoshop - Windows - Linux - Mac
+  actions:
+  - caption: Steam
+    url: http://store.steampowered.com/app/724130/Radar_Warfare
+  - caption: Press Kit
+    url: http://dreamroadproductions.com/sheet.php?p=radar_warfare
+
+  pages:
+
+  - image: 2.png
+    color: '#F2F1EF'
+    device_frame: browser
+
+  - image: 3.png
+    color: '#F2F1EF'
+    device_frame: browser
+
+  - image: 5.png
+    color: '#F2F1EF'
+    device_frame: browser
+
+  - image: 6.png
+    color: '#F2F1EF'
+    device_frame: browser
+
+  - image: 7.png
+    color: '#F2F1EF'
+    device_frame: browser
+
+  - image: 8.png
+    color: '#F2F1EF'
+    device_frame: browser
+
+###################################################################################################
+
+- name: REVI
+  date: 2016 – 2016
+  extra_classes: tall
+  description: |
+    REVI was created as result of a partnership between two universities: Instituto Federal Catarinense and Bom Jesus IELUSC to improve both university journals.
+
+    REVI was created using IONIC, a PHP API and Angular in the course of two months.
+
+    Ionic - Angular - PHP - Photoshop - Android - iOS
+
+  actions:
+  - caption: Github
+    url: https://github.com/vitorfgd/NewsReaderApp-Ionic
+
+  pages:
+  - image: ionic1.png
+    color: '#2980b9'
+    device_frame: nexus5_light
+
+  - image: ionic2.png
+    color: '#2980b9'
+    device_frame: nexus5_light
+
+  - image: ionic3.png
+    color: '#2980b9'
+    device_frame: nexus5_light
+
+  - image: ionic4.png
+    color: '#2980b9'
+    device_frame: nexus5_light
+
+###################################################################################################
+
+
+- name: HARD
+  date: 2012 – 2013
+  extra_classes: tall
+  description: |
+    Hard was the first game I developed using unity3D and my first app to surpass the 100.000+ download mark.
+
+    C# - Unity3D - Photoshop - Android
+
+  actions:
+  - caption: Android
+    url: https://play.google.com/store/apps/details?id=com.dreamroad.android.nsrain
+
+  pages:
+  - image: hard1.png
+    color: '#96281B'
+    device_frame: nexus5_light
+
+  - image: hard2.png
+    color: '#96281B'
+    device_frame: nexus5_light
+
+  - image: hard3.png
+    color: '#96281B'
+    device_frame: nexus5_light
+
+  - image: hard4.png
+    color: '#96281B'
+    device_frame: nexus5_light
+
+###################################################################################################
+
+
+- name: ASMR Rain Sounds
+  date: 2010 – 2014
+  extra_classes: tall
+  description: |
+    ASMR Rain Sounds was a ASMR experiment. Developed using Unity 3D and C#. It was created to test Unity's 3D audio system and particle system and tizen export.
+
+    50000+ downloads on android, iOS and Tizen.
+
+    C# - Unity3D - Photoshop - Android - iOS - Tizen
+
+  actions:
+  - caption: Android
+    url: https://play.google.com/store/apps/details?id=com.dreamroad.android.nsrain
+  - caption: iOS
+    url: https://itunes.apple.com/us/app/asmr-sounds-rain/id1050454356
+  - caption: Tizen
+    url: http://www.tizenstore.com/main/getDetail.as?Id=com.drp.rain
+
+  pages:
+  - image: rain_1.png
+    color: '#22313F'
+    device_frame: nexus5_light
+
+  - image: rain_2.png
+    color: '#22313F'
+    device_frame: nexus5_light
+
+
+###################################################################################################
+
+
+- name: ASMR Forest Sounds
+  date: September 2012 – February 2013
+  extra_classes: tall
+  description: |
+    ASMR Forest Sounds was a ASMR experiment. Developed using Unity 3D and C#. It was created to test Unity's 3D audio system and particle system and tizen export.
+
+    20000+ downloads on android, iOS and Tizen.
+
+    C# - Unity3D - Photoshop - Android - iOS - Tizen
+
+  actions:
+  - caption: Android
+    url: https://play.google.com/store/apps/details?id=com.dreamroad.android.nsforest
+  - caption: iOS
+    url: https://itunes.apple.com/us/app/asmr-sounds-forest/id1046189381?mt=8
+  - caption: Tizen
+    url: http://www.tizenstore.com/main/getDetail.as?Id=com.drp.forest
+
+  pages:
+  - image: forest_1.png
+    color: '#87D37C'
+    device_frame: nexus5_light
+
+  - image: forest_2.png
+    color: '#87D37C'
+    device_frame: nexus5_light
